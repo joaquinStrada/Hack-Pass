@@ -36,7 +36,7 @@
                                         </form>
                                     </div>
                                     <div class="card-footer text-center">
-                                        <div class="small"><a href="register.html">¿Necesito una cuenta? ¡Regístrate!</a></div>
+                                        <div class="small"><a href="register">¿Necesito una cuenta? ¡Regístrate!</a></div>
                                     </div>
                                 </div>
                             </div>
@@ -44,23 +44,3 @@
                     </div>
                 </main>
             </div>
-            <div id="layoutAuthentication_footer">
-                <footer class="py-4 bg-light mt-auto">
-                    <div class="container-fluid">
-                        <div class="d-flex align-items-center justify-content-between small">
-                            <div class="text-muted">Copyright &copy; Your Website 2020</div>
-                            <div>
-                                <a href="#">Privacy Policy</a>
-                                &middot;
-                                <a href="#">Terms &amp; Conditions</a>
-                            </div>
-                        </div>
-                    </div>
-                </footer>
-            </div>
-        </div>
-        <script src="<?php echo base_url("public/js/jquery-3.5.1.slim.min.js"); ?>"></script>
-        <script src="<?php echo base_url("public/js/bootstrap.bundle.min.js"); ?>"></script>
-        <script src="<?php echo base_url("public/js/scripts.js"); ?>"></script>
-    </body>
-</html>
